@@ -3,6 +3,7 @@
 Welcome to my public profile!
 
 This section includes my Certificates of Completion from the Learn Enough series (https://learnenough.com/).
+
 <a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
 
 <!--
