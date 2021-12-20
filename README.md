@@ -1,5 +1,10 @@
-### Hi there 👋
+### Taylor Mravic's Github Profile
+
+Welcome to my public profile!
+
+This section includes my Certificates of Completion from the Learn Enough series (https://learnenough.com/).
 <a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
+
 <!--
 **tmravic/tmravic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
