@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
 <!--
 **tmravic/tmravic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
