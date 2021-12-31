@@ -4,7 +4,7 @@ Welcome to my public profile!
 
 This section includes my Certificates of Completion from the Learn Enough series (https://learnenough.com/).
 
-<a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line">Command Line</a><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor">Text Editor</a>
+<a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line">Command Line</a><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor">Text Editor</a><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line">Git</a><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
 
 <!--
 **tmravic/tmravic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
