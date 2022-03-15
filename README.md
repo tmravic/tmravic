@@ -6,9 +6,9 @@ This section includes my Certificates of Completion from the Learn Enough series
 
 <div class="container">
   <div class="row">
-    <div class="col"><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line">Command Line</a></div>
-    <div class="col"><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor">Text Editor</a></div>
-    <div class="col"><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git">Git</a></div>
+    <div class="col col-md-4"><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line">Command Line</a></div>
+    <div class="col col-md-4"><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor">Text Editor</a></div>
+    <div class="col col-md-4"><a href="https://www.learnenough.com/certificates/tmravic"><img src="https://www.learnenough.com/certificates/tmravic/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git">Git</a></div>
   </div>
 
 </div>
