@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **rails, bootstrap, PHP**
+- 💬 Ask me about **rails, bootstrap, AWS**
 
 - 📫 How to reach me **taylor.mravic@gmail.com**
 
