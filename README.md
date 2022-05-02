@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは 👋, I'm Taylor</h1>
-<h3 align="center">A passionate fullstack developer living in Tokyo</h3>
+<h3 align="center">A passionate developer living in Tokyo</h3>
 
 - 🔭 I’m currently working on [MyEnglishSpeech](www.myenglishspeech.com)
 
