@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my job.
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **RSpec**
 
 - 💬 Ask me about **rails, bootstrap, AWS**
 
